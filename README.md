@@ -5,6 +5,7 @@
 3. Xbox Progress - Yes
 4. Microsoft store sign in - Yes
 5. Xbox Connected - Yes
+6. All / Multi Versions - Yes
 
 ### System / windows Requirements
 Requirements---
