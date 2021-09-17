@@ -21,8 +21,10 @@ Requirements---
 0.5 complete the requirements first
 
 0. Download MCBE
+![Downloading](https://github.com/QwertyTheCoder/Minecraft-Bedrock-Crack/raw/main/stph4.png)
 
-1. Open extracted folder("MCBE v2\1.Minecraft Download")
+1. Open extracted folder("MCBE v4\1.Minecraft Download")
+![download folder]()
 
 2. Start "MCDownload.exe"
 
