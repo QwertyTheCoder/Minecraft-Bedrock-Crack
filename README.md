@@ -9,7 +9,9 @@
 
 ###Notes
 •to start the game click play minecraft in mc launcher or mc centres launcher and keep the launcher open even the minecraft is open
+
 •If you feel that minecraft is crashing or freezing then switch to mc launcher and clicking play minecraft
+
 •if you find errors contact me personally by emailing me or in discord and with that open an issue
 
 ### System / windows Requirements
