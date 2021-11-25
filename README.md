@@ -1,4 +1,7 @@
 # Minecraft-Bedrock-Crack
+ ________________________________________________________________
+#|||I AM NOT RESPONSIBLE TO ANYTHING HAPPENS WITH YOUR MACHINE|||
+ _____________________
 ## Only For Windows
 1. Servers - Yes
 2. Privacy error - No
