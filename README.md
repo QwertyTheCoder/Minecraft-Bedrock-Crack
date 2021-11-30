@@ -10,7 +10,7 @@
 5. Xbox Connected - Yes
 6. All / Multi Versions - Yes
 
-###Notes
+### Notes
 
 •to start the game click play minecraft in mc launcher or mc centres launcher and keep the launcher open even the minecraft is open
 
