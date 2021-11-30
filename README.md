@@ -37,7 +37,7 @@ Requirements---
 
 2. Start "MCDownload.exe"
 
-3. Download your desired MCBE version(300mb-500mb)
+3. Download your desired MCBE version(300mb-600mb)
 
 4.A file will appear "Minecraft-version.x.appx"
 
