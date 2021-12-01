@@ -37,17 +37,19 @@ Requirements---
 
 1. Open extracted folder("MCBE vX\1.Minecraft Download")
 
-2. Start "MCDownload.exe"
+2. Start `MCDownload.exe`
 
 3. Download your desired MCBE version(300mb-600mb)
+3.33. after downloading it will be extracted and finaliezed
+3.99. close `MCdownload` after downloaded
 
-4.A file will appear "Minecraft-version.X.appx"
+4.A file will appear `Minecraft-version.X.appx`
 
-5.Open "MCBE vX\2.Crack Launcher--Installer\MCLauncher.exe"
+5.Open `MCBE vX\2.Crack Launcher--Installer\MCLauncher.exe`
 
-6.After opening "MCLauncher.exe" click on "Install appx" and select the file which was generated in "step 4"
+6.After opening `MCLauncher.exe` click on `Install appx` and select the file which was generated in "step 4"
 
 7.It Will began installing. You might have to wait for a few minutes
 
-8.After Completion You Can Now launch MCBE from MCLauncher.exe By clicking on "Play minecraft"
+8.After Completion You Can Now launch MCBE from `MCLauncher.exe` By clicking on `Play minecraft`
 
