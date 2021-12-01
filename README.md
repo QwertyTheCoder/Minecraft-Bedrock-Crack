@@ -27,6 +27,8 @@ Requirements---
 
 • You should be signed in with a personal Microsoft account in Microsoft store
 
+• Disbale runtime broker and restart. here's how to do that: Open Run(WIN_KEY + R) After its open Try to find “TimeBrokerSvc” from “HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services”. Then double click “Start” on the right and change the value from “3” to “4”
+
 ### How / Steps To Install
 
 0.5 complete the requirements first
