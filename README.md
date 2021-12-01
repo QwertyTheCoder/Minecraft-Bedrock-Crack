@@ -33,7 +33,7 @@ Requirements---
 
 0. complete the requirements first
 
-0.5 [Download MCBE](https://github.com/QwertyTheCoder/Minecraft-Bedrock-Crack/releases/latest)
+ 0.5 [Download MCBE](https://github.com/QwertyTheCoder/Minecraft-Bedrock-Crack/releases/latest)
 
 1. Open extracted folder("MCBE vX\1.Minecraft Download")
 
