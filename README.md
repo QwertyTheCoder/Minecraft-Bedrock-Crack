@@ -21,7 +21,7 @@
 ### System / windows Requirements
 Requirements---
 
-• Your Operating system (OS) should be Windows 10 version 1803 (build 17134.0) or higher
+• Your Operating system (OS) should be `Windows 10 version 1803 (build 17134.0) / higher`
 
 • Your Computer should have [developer mode](https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10) turned on(To access it, head to Settings > Update & Security > For Developers and select “Developer mode”) and restart you computer after enabling
 
@@ -31,9 +31,9 @@ Requirements---
 
 ### How / Steps To Install
 
-0.5 complete the requirements first
+0. complete the requirements first
 
-0. [Download MCBE](https://github.com/QwertyTheCoder/Minecraft-Bedrock-Crack/releases/latest)
+0.5 [Download MCBE](https://github.com/QwertyTheCoder/Minecraft-Bedrock-Crack/releases/latest)
 
 1. Open extracted folder("MCBE vX\1.Minecraft Download")
 
@@ -41,7 +41,7 @@ Requirements---
 
 3. Download your desired MCBE version(300mb-600mb)
 3.33. after downloading it will be extracted and finaliezed
-3.99. close `MCdownload` after downloaded
+3.99. close `MCdownload.exe` after downloaded
 
 4.A file will appear `Minecraft-version.X.appx`
 
