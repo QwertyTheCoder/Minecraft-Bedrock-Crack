@@ -1,4 +1,5 @@
 # Minecraft-Bedrock-Crack
+# working on adding a new client releasing soon(within 2days) please wait patiently.
  ________________________________________________________________
 #|||I AM NOT RESPONSIBLE TO ANYTHING HAPPENS WITH YOUR MACHINE|||
  _____________________
