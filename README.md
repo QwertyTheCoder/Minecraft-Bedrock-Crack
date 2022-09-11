@@ -1,5 +1,5 @@
 # Minecraft-Bedrock-Crack
-# working on adding a new client releasing soon(within 2days) please wait patiently.
+# THIS IS DISCONTINUED PLEASE REFER TO NEWER CLIENT https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/
  ________________________________________________________________
 #|||I AM NOT RESPONSIBLE TO ANYTHING HAPPENS WITH YOUR MACHINE|||
  _____________________
